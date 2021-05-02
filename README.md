@@ -1,2 +1,2 @@
 # Doctorate-Clinical-Psycology
-Analysis of the Clinical Psychology training application statistics
+Analysis of the UK Clinical Psychology training application statistics
